@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bjniane
+- Hi 👋, I’m @bjniane
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning in 42-1337
 - 📫 How to reach me bilaljniane0@gmail.com
