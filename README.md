@@ -52,13 +52,9 @@ I'm a passionate cybersecurity enthusiast and student at [1337 School](https://1
 I'm always interested in collaborating on cybersecurity projects and learning from others in the field. If you share my passion for cybersecurity, let's connect and make the digital world safer together!
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/bilal-jniane-588725224">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" height="30" width="40">
-  </a>
-  <a href="https://x.com/bilal_jniane">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" alt="Twitter" height="30" width="40">
-  </a>
-  <a href="https://github.com/bjniane">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="GitHub" height="30" width="40">
-  </a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilal-jniane-588725224)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/bilal_jniane)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bjniane)
+
 </div>
