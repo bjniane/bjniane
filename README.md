@@ -39,12 +39,6 @@ I'm a passionate cybersecurity enthusiast and student at [1337 School](https://1
 
 </div>
 
-### 🌱 Currently Learning
-- Penetration Testing
-- Network Security
-- System Administration
-- Secure Code Development
-
 ### � GitHub Stats
 
 <div align="center">
