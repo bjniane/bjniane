@@ -45,16 +45,20 @@ I'm a passionate cybersecurity enthusiast and student at [1337 School](https://1
 - System Administration
 - Secure Code Development
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bjniane&show_icons=true&theme=dark)
 
 ### 🤝 Let's Connect!
 I'm always interested in collaborating on cybersecurity projects and learning from others in the field. If you share my passion for cybersecurity, let's connect and make the digital world safer together!
 
 <div align="center">
-  
-[![Email](https://img.shields.io/badge/Drop%20me%20an%20email-bilaljniane0%40gmail.com-red?style=flat-square&logo=gmail)](mailto:bilaljniane0@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-Bilal%20Jniane-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bilal-jniane-588725224)
-[![Twitter](https://img.shields.io/badge/Follow%20on%20Twitter-bilal__jniane-1DA1F2?style=flat-square&logo=twitter)](https://x.com/bilal_jniane)
-
+  <a href="https://www.linkedin.com/in/bilal-jniane-588725224">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" height="30" width="40">
+  </a>
+  <a href="https://x.com/bilal_jniane">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" alt="Twitter" height="30" width="40">
+  </a>
+  <a href="https://github.com/bjniane">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="GitHub" height="30" width="40">
+  </a>
 </div>
