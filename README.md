@@ -45,8 +45,17 @@ I'm a passionate cybersecurity enthusiast and student at [1337 School](https://1
 - System Administration
 - Secure Code Development
 
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bjniane&show_icons=true&theme=dark)
+### � GitHub Stats
+
+<div align="center">
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bjniane&layout=compact&theme=dark&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bjniane&show_icons=true&theme=dark&count_private=true&hide_border=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bjniane&theme=dark&hide_border=true)](https://github.com/bjniane)
+
+</div>
 
 ### 🤝 Let's Connect!
 I'm always interested in collaborating on cybersecurity projects and learning from others in the field. If you share my passion for cybersecurity, let's connect and make the digital world safer together!
