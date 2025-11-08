@@ -64,6 +64,6 @@ I'm always interested in collaborating on cybersecurity projects and learning fr
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilal-jniane-588725224)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/bilal_jniane)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bjniane)
+[![Discord](https://img.shields.io/badge/TOROKARO-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/toro_jj123)
 
 </div>
